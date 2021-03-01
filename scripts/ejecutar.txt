@@ -1,0 +1,6 @@
+drop database queveohoydb;
+
+source C:/Users/jua/Dropbox/acamica/TPS/09_queVeoHoy/scripts/script.sql;
+source C:/Users/jua/Dropbox/acamica/TPS/09_queVeoHoy/scripts/script-paso-1-peliculas.sql;
+source C:/Users/jua/Dropbox/acamica/TPS/09_queVeoHoy/scripts/script-paso-2-generos.sql;
+source C:/Users/jua/Dropbox/acamica/TPS/09_queVeoHoy/scripts/script-paso-3-actores.sql;
